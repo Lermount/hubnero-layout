@@ -1,0 +1,56 @@
+export const tibleTitles = [
+    {
+        id: 1,
+        search: '/images/svg/tableTitles/table-search.svg',
+        name: 'Business Name',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom.svg',
+    },
+    {
+        id: 2,
+        cross: '/images/svg/tableTitles/table-cross.svg',
+        name: 'Team',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom-active.svg',
+        dropdown: '/images/svg/tableTitles/table-dropdown.svg',
+    },
+    {
+        id: 3,
+        cross: '/images/svg/tableTitles/table-cross.svg',
+        name: 'Role',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom.svg',
+        dropdown: '/images/svg/tableTitles/table-dropdown.svg',
+    },
+    {
+        id: 4,
+        search: '/images/svg/tableTitles/table-search.svg',
+        name: 'Gmail',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom.svg',
+    },
+    {
+        id: 5,
+        cross: '/images/svg/tableTitles/table-cross.svg',
+        name: 'Birthday',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom.svg',
+        dropdown: '/images/svg/tableTitles/table-dropdown.svg',
+    },
+    {
+        id: 6,
+        name: 'Telegram',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom.svg',
+    },
+    {
+        id: 7,
+        name: 'Last Login',
+        arrowTop: '/images/svg/tableTitles/table-arrow-top.svg',
+        arrowBottom: '/images/svg/tableTitles/table-arrow-bottom.svg',
+    },
+    {
+        id: 8,
+        name: 'User permissions',
+    },
+]
